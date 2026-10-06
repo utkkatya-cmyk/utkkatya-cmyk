@@ -8,6 +8,12 @@
     Привет! Это выбегающий текст — он бежит по строке снова и снова.
   </p>
 </div>
+<style>
+@keyframes run-text {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+</style>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
