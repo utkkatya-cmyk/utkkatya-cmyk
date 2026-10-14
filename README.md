@@ -2,8 +2,7 @@
 <table>
   <tr>
     <td width="35%" valign="top">
-      <img src="![Uploading mew-i-told-you-man.gif…]()
-" width=300>
+      <img src="https://media1.tenor.com/m/P4EpK0FoK_wAAAAC/mew-i-told-you-man.gif" width=300>
     </td>
     <td width="65%" valigh="top">
       <h1>My Teck Stack</h1>
