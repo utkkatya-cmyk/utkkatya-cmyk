@@ -1,8 +1,17 @@
 # Hello, I'm Katya!💫
-<img src="https://media1.tenor.com/m/P4EpK0FoK_wAAAAC/mew-i-told-you-man.gif" width=200>
-# My teck stack
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+<table>
+  <tr>
+    <td width="35%" valign="top">
+      <img src="https://media1.tenor.com/m/P4EpK0FoK_wAAAAC/mew-i-told-you-man.gif" width=200>
+    </td>
+    <td width="65%" valigh="top">
+      <h3>My Teck Stack</h3>
+      <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" alt="VS code">
+      <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" alt="Git">
+    </td>
+  </tr>
+</table>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
