@@ -4,13 +4,12 @@
     <td width="35%" valign="top" align="center">
       <img src="https://i.pinimg.com/originals/cd/c1/09/cdc1097e415aa76e582502a15aab16f7.jpg" width="100%">
     </td>
- 🎨 Former art student, forever an artist
-      💡reative thinker & idea generator
+      🎨 Former art student, forever an artist
+      💡 Creative thinker & idea generator
       💻 Learning to code one line at a time
       🌷 Finding beauty in little things
       ✨ Creating, exploring & dreaming big
     <td width="65%" valigh="top">
-      
       <h1>My Teck Stack</h1>
       <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" alt="VS code">
       <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" alt="Git">
@@ -20,12 +19,8 @@
   </tr>
 </table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 Former art student, forever an artist
+💡 Creative thinker & idea generator
+💻 Learning to code one line at a time
+🌷 Finding beauty in little things
+✨ Creating, exploring & dreaming big
