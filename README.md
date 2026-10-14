@@ -1,9 +1,4 @@
 # Hello, I'm Katya!💫
-🎨 Former art student, forever an artist
-💡 Creative thinker & idea generator
-💻 Learning to code one line at a time
-🌷 Finding beauty in little things
-✨ Creating, exploring & dreaming big
 <table width="100%" border="0">
   <tr>
     <td width="35%" valign="top" align="center">
