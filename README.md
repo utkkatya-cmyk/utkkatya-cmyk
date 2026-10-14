@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td width="35%" valign="top">
-      <img src="https://i.pinimg.com/736x/3e/25/62/3e2562ccb86f3c1a98067bfcbab975b5.jpg" width=300>
+      <img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/0670a2fe-abae-4277-8727-9371726d4772/3840x" width=300>
     </td>
     <td width="65%" valigh="top">
       <h1>My Teck Stack</h1>
