@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td width="35%" valign="top">
-      <img src="https://media1.tenor.com/m/P4EpK0FoK_wAAAAC/mew-i-told-you-man.gif" width=200>
+      <img src="file:///D:/Загрузки/mew-i-told-you-man.gif" width=200>
     </td>
     <td width="65%" valigh="top">
       <h1>My Teck Stack</h1>
