@@ -1,4 +1,6 @@
 # Hello, I'm Katya!🦆
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram)](https://t.me/katexvvv)
+[![ВКонтакте](https://img.shields.io/badge/ВКонтакте-blue?style=flat-square&logo=vk)](https://vk.com/kkkkkkkkktya)
 <table width="100%" border="0">
   <tr>
     <td width="35%" valign="top" align="center">
@@ -6,7 +8,7 @@
     </td>
     <td width="65%" valigh="top">
     [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram)](https://t.me/katexvvv)
-[![ВКонтакте](https://img.shields.io/badge/ВКонтакте-blue?style=flat-square&logo=vk)](https://vk.com/kkkkkkkkktya)
+    [![ВКонтакте](https://img.shields.io/badge/ВКонтакте-blue?style=flat-square&logo=vk)](https://vk.com/kkkkkkkkktya)
     <p>🎨 Former art student, forever an artist</p>
     <p>💡 Creative thinker &amp; idea generator</p>
     <p>💻 Learning to code one line at a time</p>
