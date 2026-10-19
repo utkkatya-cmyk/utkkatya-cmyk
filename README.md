@@ -5,7 +5,7 @@
       <img src="https://i.pinimg.com/originals/cd/c1/09/cdc1097e415aa76e582502a15aab16f7.jpg" width="100%">
     </td>
     <td width="65%" valigh="top">
-    <a href="https://id.vk.ru/account/#/main">VK</a> <a href="t.me/katexvvv">Telegram</a>
+    <a href="https://id.vk.ru/account/#/main">VK</a> 
     <p>🎨 Former art student, forever an artist</p>
     <p>💡 Creative thinker &amp; idea generator</p>
     <p>💻 Learning to code one line at a time</p>
