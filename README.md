@@ -5,8 +5,8 @@
       <img src="https://i.pinimg.com/originals/cd/c1/09/cdc1097e415aa76e582502a15aab16f7.jpg" width="100%">
     </td>
     <td width="65%" valigh="top">
-    <a href="https://id.vk.ru/account/#/main">
-  <img src="https://komarev.com/ghpvc/?username=Катя Уткина&logo=vk&logoColor=white&color=blue&style=flat-square" alt="ВКонтакте">
+    <a href="https://vk.ru/kkkkkkkkktya">
+  <img src="https://komarev.com/ghpvc/?username=kkkkkkkkktya&logo=vk&logoColor=white&color=blue&style=flat-square" alt="ВКонтакте">
 </a>
     <p>🎨 Former art student, forever an artist</p>
     <p>💡 Creative thinker &amp; idea generator</p>
